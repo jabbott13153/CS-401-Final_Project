@@ -1,0 +1,12 @@
+
+{ 
+    crc :  1280887031928497562  , 
+    ccp_crc :  0  , 
+    cmdline : " -wto 855fffe6f8464741bc0494f0f7a9eb32 --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot TestALU_behav xil_defaultlib.TestALU" , 
+    buildDate : "Jul 26 2018" , 
+    buildTime : "19:36:16" , 
+    linkCmd : "C:\\Xilinx\\Vivado\\2018.2\\data\\..\\tps\\mingw\\6.2.0\\win64.o\\nt\\bin\\gcc.exe -Wa,-W  -O -Wl,--stack,104857600 -o \"xsim.dir/TestALU_behav/xsimk.exe\"   \"xsim.dir/TestALU_behav/obj/xsim_0.win64.obj\" \"xsim.dir/TestALU_behav/obj/xsim_1.win64.obj\" \"C:\\Xilinx\\Vivado\\2018.2\\lib\\win64.o\\\\librdi_simulator_kernel.dll\"  \"C:\\Xilinx\\Vivado\\2018.2\\lib\\win64.o\\\\librdi_simbridge_kernel.dll\"" , 
+    aggregate_nets : 
+    [ 
+    ] 
+} 

@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2018.2.1 (64-bit)
+# SW Build 2288692 on Thu Jul 26 18:24:02 MDT 2018
+# IP Build 2289599 on Thu Jul 26 21:09:20 MDT 2018
+# Start of session at: Sun Feb 10 13:57:10 2019
+# Process ID: 11104
+# Current directory: Z:/rrutherford20/CS-401-1-CompArch/MIPS_1/ALU_FINAL/ALU_FINAL.runs/impl_1
+# Command line: vivado.exe -log alu.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source alu.tcl -notrace
+# Log file: Z:/rrutherford20/CS-401-1-CompArch/MIPS_1/ALU_FINAL/ALU_FINAL.runs/impl_1/alu.vdi
+# Journal file: Z:/rrutherford20/CS-401-1-CompArch/MIPS_1/ALU_FINAL/ALU_FINAL.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source alu.tcl -notrace
